@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 //Intent obj1=new Intent(MainActivity.this,MainActivity2.class);
                 //startActivity(obj1);
                 startActivity(new Intent(MainActivity.this,MainActivity2.class));
+                // will go to second activity
             }
         });
     }
