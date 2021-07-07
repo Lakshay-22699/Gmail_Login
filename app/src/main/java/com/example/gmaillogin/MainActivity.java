@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 //startActivity(obj1);
                 startActivity(new Intent(MainActivity.this,MainActivity2.class));
                 // will go to second activity
+                //commit second
             }
         });
     }
